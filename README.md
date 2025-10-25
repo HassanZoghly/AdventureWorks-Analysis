@@ -1,4 +1,4 @@
-# 📊 Sales Performance and Business Intelligence Dashboard
+# Sales Performance and Business Intelligence Dashboard
 
 ## **1. Project Overview**
 
