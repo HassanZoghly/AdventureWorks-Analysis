@@ -82,4 +82,4 @@ The dashboard provides drill-down capabilities for various business perspectives
 
 ### **🖼️ Dashboard Screenshot**
 
-[**INSERT HIGH-RESOLUTION IMAGE OF YOUR FINAL DASHBOARD HERE**]
+[**<img width="1200" height="646" alt="DashBoard 1" src="https://github.com/user-attachments/assets/a5e87d67-b9bc-42a3-bb02-831107bfee1d" />**]
