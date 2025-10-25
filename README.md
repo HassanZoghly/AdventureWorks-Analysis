@@ -82,6 +82,6 @@ The dashboard provides drill-down capabilities for various business perspectives
 
 ### **🖼️ Some of Dashboards**
 
-**<img width="1200" height="646" alt="DashBoard 1" src="https://github.com/user-attachments/assets/a5e87d67-b9bc-42a3-bb02-831107bfee1d" />**
+**<![8](https://github.com/user-attachments/assets/92be7dd1-2bb9-4bea-930a-caeadb59efea)/>**
 
 **<img width="1391" height="662" alt="DashBoard 2" src="https://github.com/user-attachments/assets/eb888835-d468-4b30-b6af-515fb5e276c7" />**
